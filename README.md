@@ -28,6 +28,7 @@ INSTRUCTIONS:
 2. Edit the Youtube video ID and optionally add any relevant URL parameters (like start time) toward the bottom of the file, and save.
 
 3. Get your integration URL. Your "Web Integration" URL will be:
+4. 
     https://(username).github.io/(path-to-index.html)
    
     NOT
