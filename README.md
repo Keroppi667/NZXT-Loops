@@ -25,11 +25,11 @@ INSTRUCTIONS:
     If you haven't ever set up Github pages (required for regular display/publishing of things like webpages like a normal webserver displays them) go to:
     (Your Repo)>'Settings' (in top bar)>'Pages' and make sure to set your source ('Deploy from a branch'>(Repo))
 
-2. Edit the Youtube video ID and optionally add any relevant URL parameters (like start time) toward the bottom of the file, and save.
+2. Edit the Youtube video ID, and optionally add any relevant URL parameters (like start time) toward the bottom of the file, and save.
 
 3. Get your integration URL. Your "Web Integration" URL will be:
    
-    https://(username).github.io/(path-to-index.html)
+    https://username.github.io/(path-to-index.html)
    
     NOT
    
