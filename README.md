@@ -3,7 +3,7 @@ This repository is for ppl with NZXT Kraken AIO coolers that "support" Web integ
 This repo only exists because NZXT sucks so badly that they can't be bothered to include basic things, like allowing you to insert a replacement video for their (worthless) Youtube connector and (even at most basic) allowing it to save a different video per profile.
 
 You'll find that the only way playing a YT video works correctly is: by replacing their video *for adverstising the product you have already bought* in their pre-made YT "profile" in the CAM software. Yeah...they're very stable geniuses. 
-You'll also find that even if you save/change profiles, the URL setting follows. So: you get oONE video slot, total. No searching in %appdata%/NZXT/ to modify config files will help you.
+You'll also find that even if you save/change profiles, the URL setting follows. So: you get ONE video slot, total. No searching in %appdata%/NZXT/ to modify config files will help you.
 Evidently these assholes never heard of (or thought to) include a simple copy or add button.
 
 If you've tried working around this, you'll find that just putting in a web link to a Youtube video under "Web Integrations" DOES produce a result, but it's effectively letterboxed garbage. 
