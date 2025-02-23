@@ -29,16 +29,20 @@ INSTRUCTIONS:
 
 3. Get your integration URL. Your "Web Integration" URL will be:
     https://(username).github.io/(path-to-index.html)
+   
     NOT
+   
     https://github.com/(username)/(path-to-index.html)
     
     Notice the difference in both username placement and *.io vs *.com in the domain.
     
     So, for:
     https://github.com/Keroppi667/NZXT-Loops/eyes/
+   
     the URL will become:
+   
     https://keroppi667.github.io/NZXT-Loops/eyes/
 
-4. Add this URL in the "Web Integration" section of the NZXT CAM software
+5. Add this URL in the "Web Integration" section of the NZXT CAM software
 
-5. Join me in wishing "a pox on all their houses" for the devs that can overlook such simple and criitical functionality like a copy or add button.
+6. Join me in wishing "a pox on all their houses" for the devs that can overlook such simple and criitical functionality like a copy or add button.
