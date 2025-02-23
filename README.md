@@ -28,7 +28,7 @@ INSTRUCTIONS:
 2. Edit the Youtube video ID and optionally add any relevant URL parameters (like start time) toward the bottom of the file, and save.
 
 3. Get your integration URL. Your "Web Integration" URL will be:
-4. 
+   
     https://(username).github.io/(path-to-index.html)
    
     NOT
@@ -44,6 +44,6 @@ INSTRUCTIONS:
    
     https://keroppi667.github.io/NZXT-Loops/eyes/
 
-5. Add this URL in the "Web Integration" section of the NZXT CAM software
+4. Add this URL in the "Web Integration" section of the NZXT CAM software
 
-6. Join me in wishing "a pox on all their houses" for the devs that can overlook such simple and criitical functionality like a copy or add button.
+5. Join me in wishing "a pox on all their houses" for the devs that can overlook such simple and criitical functionality like a copy or add button.
